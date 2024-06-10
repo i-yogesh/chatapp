@@ -1,0 +1,7 @@
+//cd Frontend
+//npm run dev
+
+//cd Backend
+//nodemon index.js
+
+mongodb://localhost:27017/Mini
